@@ -1,3 +1,3 @@
-# nepalmahan.github.io
+# nepalmahan
 
 a website for showcasing my skills
